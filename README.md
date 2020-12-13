@@ -1,1 +1,0 @@
-# Analysis-of-Kickstarter-projects
